@@ -1,0 +1,2 @@
+D:\Unity Projects\AR_Test\App\AR_Test\AR_Test.csproj;x86
+D:\Unity Projects\AR_Test\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

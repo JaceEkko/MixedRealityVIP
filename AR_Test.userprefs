@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GraphScripts\sinewave.cs">
+    <Files>
+      <File FileName="Assets\DisplayScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\I_Manipulatable.cs" Line="1" Column="1" />
+      <File FileName="Assets\DiceButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\GazeGestureManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\AmpKnobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GraphScripts\GridGUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GraphScripts\test.txt" Line="1" Column="1" />
+      <File FileName="Assets\GraphScripts\sinewave.cs" Line="1" Column="1" />
+      <File FileName="Assets\GraphScripts\GraphScript.cs" Line="158" Column="38" />
+      <File FileName="Assets\KnobScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\SizeGraphScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GraphManipScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
