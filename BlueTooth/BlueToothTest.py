@@ -1,6 +1,6 @@
 import bluetooth
 
-target_name = "Hololens-M3T2B"
+target_name = "HoloLens-M3T2B"
 target_address = None
 
 nearby_devices = bluetooth.discover_devices()
