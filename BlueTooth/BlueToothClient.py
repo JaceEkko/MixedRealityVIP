@@ -1,5 +1,5 @@
 import bluetooth
-from BlueToothTest.py import findDevice
+from BlueToothTest import findDevice
 
 bd_addr = findDevice()
 
