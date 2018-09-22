@@ -1,7 +1,7 @@
 import bluetooth
 
 def findDevice():
-    target_name = "HoloLens-M3T2B"#"HoloLens-FV3QH"#HOME #"HoloLens-M3T2B" MAKERSPACE
+    target_name = "HoloLens-FV3QH"#"HoloLens-FV3QH" HOME #"HoloLens-M3T2B" MAKERSPACE
     target_address = None
 
     nearby_devices = bluetooth.discover_devices()
