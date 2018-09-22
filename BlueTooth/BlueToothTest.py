@@ -17,3 +17,5 @@ def findDevice():
     else:
         print("Couldn't find target")
         return None
+    
+findDevice()
